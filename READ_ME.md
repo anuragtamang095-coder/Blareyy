@@ -1,12 +1,17 @@
 Blareyy a alarm clock
 
-Component:
-1x Seeed Studio XIAO ESP32-C3
-1x 284x76 ST7789 TFT Module
-4x Momentary Push Buttons
-1x Active Buzzer
-1x 1x08 2.54mm Header
-4x M2 / M2.5 Screws 
+BOM:
+1x Seeed XIAO ESP32C3
+12x MX-Style Keyboard Switches
+12x White Blank DSA Keycaps
+12x Through-Hole 1N4148 Diodes
+1x 2.25in TFT Screen
+1x 3.3V Piezo Buzzer
+1x 2.54mm 8 Pin Male Header (For connecting your screen)
+8x 20cm Female-Female Jumper Wires (For connecting your screen off of the pcb)
+8x M3x5x4 Heatset Inserts
+4x M3x8mm Screws
+4x M3x16mm Screws
 
 
  Images
